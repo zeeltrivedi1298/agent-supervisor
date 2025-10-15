@@ -1,0 +1,5 @@
+langgraph
+langgraph-supervisor
+langchain
+langchain-openai
+langchain-tavily
