@@ -1,4 +1,4 @@
-# Agent Supervisor Demo (LangGraph)
+# Agent Supervisor (LangGraph)
 
 This project is a hands-on demo of multi-agent orchestration using LangGraph.
 
