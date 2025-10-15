@@ -1,7 +1,7 @@
 # Agent Supervisor Demo (LangGraph)
 
 This project is a hands-on demo of multi-agent orchestration using LangGraph
-.
+
 It shows how a Supervisor Agent can coordinate multiple Worker Agents (e.g., research, math) to solve complex tasks step by step.
 
 🔎 What’s inside
@@ -29,6 +29,13 @@ The Supervisor Agent will:
 Send the research part to the Research Agent.
 Forward the math part to the Math Agent.
 Return the final result.
+
+
+🛡️ Notes
+
+.env and .venv/ are ignored with .gitignore (so your secrets are safe).
+You’ll need valid API keys for OpenAI and Tavily.
+If OpenAI quota runs out, you can switch to other models (Anthropic, Gemini, or Ollama).
 
 ## Setup
 ```bash
