@@ -23,12 +23,11 @@ Using recent sources, what's New York state's share of US GDP?
 Then multiply that share by 100.
 
 
+
 The Supervisor Agent will:
 
 Send the research part to the Research Agent.
-
 Forward the math part to the Math Agent.
-
 Return the final result.
 
 ## Setup
